@@ -1,0 +1,15 @@
+{
+  "comando": "Qual a maior influência cultural na culinária nortista brasileira?",
+  "curiosidade": "O primeiro Presidente da República do Brasil foi um militar.",
+  "dica": "A cozinha tradicional do norte do Brasil é rica em mandioca e peixe, herança dos costumes indígenas.",
+  "resposta": "e",
+  "pontuacao": 5,
+  "areaConhecimento": "História",
+  "alternativas": [
+    "Europeia",
+    "Norte-americana",
+    "Asiática",
+    "Australiana",
+    "Indígena"
+    ]
+}
