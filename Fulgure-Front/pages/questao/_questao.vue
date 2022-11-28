@@ -33,7 +33,6 @@
           {{ questao.alternativas[4] }}
         </b-form-radio>
       </b-form-radio-group>
-      <p>{{ selected }}</p>
     </b-card>
     <b-card class="bttns bottom">
       <b-button-toolbar key-nav aria-label="Toolbar with button groups">
